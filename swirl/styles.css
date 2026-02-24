@@ -1,3 +1,106 @@
-.title {
-    color: green;
+body {
+  background-color: #37353e;
+  color: #d3dad9;
 }
+.c1div {
+  width: 400px;
+  height: 250px;
+  background-color: #44444e;
+  margin: 150px 100px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c1div:hover {
+  width: 400px;
+  height: 250px;
+  background-color: #52525d;
+  margin: 150px 100px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c1div:active {
+  width: 400px;
+  height: 250px;
+  background-color: #d3dad9;
+  margin: 150px 100px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+
+.c2div {
+  width: 400px;
+  height: 250px;
+  background-color: #44444e;
+  margin: 150px 560px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c2div:hover {
+  width: 400px;
+  height: 250px;
+  background-color: #52525d;
+  margin: 150px 560px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c2div:active {
+  width: 400px;
+  height: 250px;
+  background-color: #d3dad9;
+  margin: 150px 560px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+
+.c3div {
+  width: 400px;
+  height: 250px;
+  background-color: #44444e;
+  margin: 150px 1020px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c3div:hover {
+  width: 400px;
+  height: 250px;
+  background-color: #52525d;
+  margin: 150px 1020px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c3div:active {
+  width: 400px;
+  height: 250px;
+  background-color: #d3dad9;
+  margin: 150px 1020px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50px;
+  position: absolute;
+}
+.c1text {
+  width: 1000px;
+  height: 500px;
+  background-color: #37353e;
+  border-radius: 50px;
+  padding-top: 50px;
+  margin: 100px auto;
+  padding: 50px;
+}
+
